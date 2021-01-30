@@ -1,3 +1,14 @@
+<p align="center">
+  <img src='src/img/spa-angular.png'/>
+</p>
+
+# Desenvolvendo SPA com Angular
+
+Aula ministrada por Camila Ribeiro no curso da Digital Innovation One.
+
+Fonte:
+[Digital Innovation One(DIO)](https://digitalinnovation.one/)
+
 # DioSpaAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
@@ -25,3 +36,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 📃 License
+
+This project is under MIT license. Check file [LICENSE](LICENSE) for more details.
+
+---
+
+<h4 align="center">
+  Developed with ❤️ by <b>Douglas Rosa</b>
+</h4>
